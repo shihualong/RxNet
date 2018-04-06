@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\RxNet.exe.config
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\RxNet.exe
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\RxNet.pdb
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\System.Reactive.Core.dll
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\System.Reactive.Core.xml
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Administrator\Desktop\RxNet\RxNet\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Administrator\Desktop\RxNet\RxNet\obj\Debug\RxNet.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RxNet\RxNet\obj\Debug\RxNet.exe
+C:\Users\Administrator\Desktop\RxNet\RxNet\obj\Debug\RxNet.pdb
